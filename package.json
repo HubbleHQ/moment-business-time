@@ -26,7 +26,8 @@
   ],
   "dependencies": {
     "minimatch": "^3.0.3",
-    "moment": "^2.14.1"
+    "moment": "^2.14.1",
+    "moment-timezone": "^0.5.21"
   },
   "devDependencies": {
     "chai": "^2.1.0",
